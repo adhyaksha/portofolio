@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(13, 58, 77);
+    font-family: sans-serif;
+}
+
+* {
+    color: rgb(152, 178, 199);
+}
+
+
+
+.samping{
+    float: right;
+}
+
+
+.data{
+    text-transform: capitalize;
+}
+
+ul{
+    list-style: ;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+    margin-right: 35%;
+}
+
